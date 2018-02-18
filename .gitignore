@@ -6,3 +6,6 @@ db.sqlite3
 /static
 .DS_Store
 new_1.py
+tkinter.py
+sqlalchemy_.py
+excel.py
